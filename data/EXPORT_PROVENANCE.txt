@@ -1,0 +1,1 @@
+Exported from original MiniBiomeGPT_T2D project. Includes saved checkpoints, ordered species names and TRAINING-COHORT group means. Does NOT contain raw per-person microbiome or metadata.

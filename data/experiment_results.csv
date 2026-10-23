@@ -1,0 +1,8 @@
+Experiment,Metric,Value
+Random forest external Karlsson,AUROC,0.69
+Random forest Qin,AUROC,0.5941
+Pretrained MiniBiomeGPT Qin,AUROC,0.5678
+MiniBiomeGPT without pretraining Qin,AUROC,0.5801
+Species-mean reconstruction baseline,MSE,1.3922
+MiniBiomeGPT reconstruction,MSE,1.3089
+Community disruption,Mean MSE,1.3222
